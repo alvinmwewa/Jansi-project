@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://Syben.local/index.html</loc>
+    <lastmod>2018-09-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Syben.local/images/6800439-light-blue-wallpaper.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Syben.local/images/cactus-crop-u167.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Syben.local/images/outside%20the%20shop-crop-u169.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Syben.local/images/20180906_081012-crop-u165.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Syben.local/images/map_tile.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Syben.local/images/20180906_081012131x74.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Syben.local/images/syben%20logo.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
