@@ -14,10 +14,10 @@ class Footer extends Component{
 			  <div class="container">
 			    <div class="row">
 			      <div class="col l6 s12">
-				<h5 class="white-text">SYBEN PLUMBING SOLUTIONS LIMITED</h5>
+				<h5 class="white-text">SYBEN PLUMBING SOLUTIONS LTD</h5>
 				<p class="grey-text text-lighten-4">
 				Get all the hardware supplies required for cleaning,
-				 caulking, paint sundries, and more at Nohren's Hardware.
+				 caulking, paint sundries, and more at Syben Plumbing Solutions Hardware.
 				  You can trust our local, family-owned and operated company 
 					for high-quality hardware.
 				</p>
@@ -28,15 +28,15 @@ class Footer extends Component{
 				  <li><a class="grey-text text-lighten-3" href='/about'>About Us</a></li>
 				  <li><a class="grey-text text-lighten-3" href='/contact'>Make an Order</a></li>
 				  <li><a class="grey-text text-lighten-3" href='/login'>Supplies</a></li>
-				  <li><a class="grey-text text-lighten-3" href='/signup'>Subcribe</a></li>
+				  <li><a class="grey-text text-lighten-3" href='/signup'>Subscribe</a></li>
 				</ul>
 			      </div>
 			    </div>
 			  </div>
 			  <div class="footer-copyright">
 			    <div class="container">
-			    Copyright © 2018 SYBEN PLUMBING SOLUTIONS LIMITED
-			    <a class="grey-text text-lighten-4 right" href='/'>SPSL</a>
+			    Copyright © 2018 SYBEN PLUMBING SOLUTIONS LTD
+			     
 			    </div>
 			  </div>
 			</footer>

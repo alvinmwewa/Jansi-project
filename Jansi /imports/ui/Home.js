@@ -29,17 +29,16 @@ class Home extends Component {
     <div id="divindiv">
     <div className="img">
    
-		<img src="images/logoo.jpg" className="circle responsive-img" />
+		<img src="images/IMG_1344.jpg" className="circle responsive-img" />
     </div>
-			<h1 ><span style={{color:"rgb(17, 227, 243)"}}>SYBEN</span> <span style={{color:"#1b1bbd"}}> PLUMBING</span><span style={{color:"rgb(17, 227, 243)"}}>SOLUTIONS LTD</span></h1>
+			<h1 ><span style={{color:"rgb(17, 227, 243)"}}>SYBEN</span> <span style={{color:"#1b1bbd"}}> PLUMBING</span><span style={{color:"rgb(17, 227, 243)"}}> SOLUTIONS LTD</span></h1>
       </div>
 		</div>
-	<div id="search">
-  <h3 id="blue">Search....</h3>
-  <form className="example" action="/action_page.php">
-  <input type="text" placeholder="Search.." name="search"/>
-</form>
-  </div>
+    <div id="search">
+				<input id="icon_prefix" type="text" class="validate" name='searchtext' onChange={this.handleSearch}/>
+				<button class="btn waves-effect waves-light light-blue lighten-1" type="submit" name="action">Search
+					    <i class="material-icons right">search</i>
+					  </button></div>
 
 	<div className="row">
 					<div className="col s6">
@@ -54,7 +53,7 @@ class Home extends Component {
            <h1 id="blue"> US AT SPSL</h1>
             <p>Our knowledge of the decorative plumbing
                and hardware items we sell sets us high above the
-                competition. Rick's Hardware & Plumbing is an authorized
+                competition. Syben Plumbing Solutions is an authorized
                  dealer of such brands as Ador Inc., Americh, Amerock,
                   Ashley Norton, Atlas Homewares, and more. We can help 
                   you select your new decorative plumbing and hardware 

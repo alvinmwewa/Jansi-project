@@ -35,57 +35,45 @@ class Signup extends React.Component{
 			}
 	render(){
 		return(
-			<div>
-			<div className="row">
-					<div className="col s6">
-					<h1 id="blue">ALT</h1>
-						<div className="center">
-					<img src="images/logo.png" className="circle responsive-img"/>
-					<h5 id="blue">ATL(Apartment Locator) helps  you to communicate with buyers or sellers
-					on esy access great prices and great services .Sign Up today</h5>
-					<img src="images/family.jpg"/>
+			<div class = "contact-pic">
+  				 
+      
+ 			<div class="row">
+      				
+      				<div id='contact' class="col s8 offset-s2 white">
+					<div id="blue">
+					<div className="center"><img src="images/syben logo 1.jpg" className="circle responsive-img" /></div>
+					<h1 class="flow-text" id='center'align="center">Sign up to <span style={{color:"#1b1bbd"}}>our newsletters</span></h1>
 					</div>
+					<form class="col s12">
+      					<div class="row">
+						<div class="input-field col s6">
+						  <i class="material-icons prefix">account_circle</i>
+						  <input id="icon_prefix" type="text" class="validate"/>
+						  <label for="icon_prefix">First Name</label>
+						</div>
+						<div class="input-field col s6">
+						  <i class="material-icons prefix">email</i>
+						  <input id="icon_email" type="email" class="validate"/>
+						  <label for="icon_email">Email</label>
+						</div>
 					</div>
-					 <div className="col s6">
-					 <h1>Sign Up</h1>
+					<div class="row">
+                          <div class="input-field col s12">
 
+			  	<button class="btn waves-effect waves-light light-blue lighten-1 right" 
+				type="submit" name="action">Subscribe
+					    <i class="material-icons right">send</i>
+				</button>
+                          </div>
+                        </div>
+    					</form>
+				</div>
+    			</div>
+            
+		</div>
 
-							 <form onSubmit={this.newUser}>
-								 <div className="row">
-									 <div className="input-feild s6 l6">
-										 <input id="name" type="text" className="input" name="name"/>
-										 <label htmlFor="name">Name</label>
-									 </div>
-									 <div className="input-feild s6 l6">
-										 <input id="surname" type="text" className="input" name="surname"/>
-										 <label htmlFor="surname">Surname</label>
-									 </div>
-								 </div>
-
-								 <div className="input-feild s6 l6">
-									 <input id="city" type="text" className="input" name="city"/>
-									 <label htmlFor="city">City</label>
-								 </div>
-								 <div className="row">
-									 <div className="input-feild s12 l6">
-										 <input id="email" type="text" className="input" name="email"/>
-										 <label htmlFor="email">Email</label>
-										 <div className="row">
-											 <div className="input-feild s12 l6">
-												 <input id="password" type="password" className="input" name="password"/>
-												 <label htmlFor="password">Password</label>
-											 </div>
-										 </div>
-									 </div>
-								 </div>
-								 <button className="btn waves-effect waves-light light-blue lighten-1" type="submit"
-								  name="action">S i g n U p</button>
-								 <hr/>
-							 </form><p>| <a href="/login">  already have an account</a></p>
-					</div>
-			</div>
-				<Footer/>
-			</div>
+			
 		);
 	}
 

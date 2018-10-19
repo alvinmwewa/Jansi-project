@@ -25,19 +25,6 @@ componentDidMount(){
 
 }
 
-logoutUser = (e) => {
-    e.preventDefault();
-    Meteor.logout((err) => {
-      if (err){
-        console.log(err.reason);
-      }
-      else {
-        FlowRouter.go('/')
-      }
-    }
-    )
-  }
-
 
 	render(){
 
@@ -53,16 +40,18 @@ logoutUser = (e) => {
 			  <ul id="nav-mobile" class="right hide-on-med-and-down">
 				<li><a href="/" class="waves-effect">Home</a></li>
 			    <li><a href='/about' class="waves-effect">About</a></li>
-			    <li><a href='/contact' class="waves-effect">Contact</a></li>
+			    <li><a href='/contact' class="waves-effect">Make an Order</a></li>
 			
       			  </ul>
 
 			  <ul class="side-nav" id='slide-out'>
-				<li><a href="/login">Login</a></li>
-				<li><a href="/signup">Signup</a></li>
+				<li><a href="/" class="waves-effect">Home</a></li>
+			  <li><a href='/about' class="waves-effect">About</a></li>
+				<li><a href="/signup">Subscribe</a></li>
 			    <li><div class="divider"></div></li>
 			    <li><a href='/profile' class="waves-effect waves-light">Profile</a></li>
-          <li><a href='/' onClick={e =>this.logoutUser(e)} class="waves-effect waves-light">Logout</a></li>
+					<li><a href="/login">Supplies</a></li>
+					<li><a href='/contact' class="waves-effect">Make an Order</a></li>
 			  </ul>
 
 			  <a data-activates="slide-out" class="sidenav-trigger light-blue lighten-2" href="#!">

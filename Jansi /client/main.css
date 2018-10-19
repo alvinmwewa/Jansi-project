@@ -98,8 +98,13 @@ color: #4fc3f7;
 
 .img{
   text-align: left;
-  padding-left: 100px;
+  padding-left: 270px;
   padding-top: 50px
+}
+
+.centerimg{
+  text-align:center ;
+padding-top: 40px;
 }
 
 #header1{
@@ -110,6 +115,20 @@ color: #4fc3f7;
   color: white;
   background-size: cover;
 }
+
+#stokeheader{
+  background-image: url('images/D_hardware_inspiration.jpg');
+  background-size: cover;
+}
+
+#h3stoke{
+text-align: center;
+}
+
+#search{
+  text-align: right
+}
+
 
 #divindiv{
   
