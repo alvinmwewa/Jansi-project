@@ -46,8 +46,7 @@ class Login extends React.Component{
         <span class="card-title activator white-text"></span>
       </div>
       <div class="card-content">
-        <p>Im still not at the level I would like to be, but I'm growing 
-          my developer skills each day thanks to Hackers Guild!!!</p>
+        <p>name of the product and other stuff here ......!!!!!</p>
         	<h3>only <span id="blue">K99.99</span></h3>
 					<button class="btn waves-effect waves-light light-blue lighten-1 right" 
 				type="submit" name="action">add to favorite</button>
@@ -61,8 +60,7 @@ class Login extends React.Component{
         <span class="card-title activator white-text"></span>
       </div>
       <div class="card-content">
-                <p>Im still not at the level I would like to be, but I'm growing 
-          my developer skills each day thanks to Hackers Guild!!!</p>
+                <p>name of the product and other stuff here ......!!!!!</p>
 					<h3>only <span id="blue">K99.99</span></h3>
 					<button class="btn waves-effect waves-light light-blue lighten-1 right" 
 				type="submit" name="action">add to favorite</button>
@@ -76,8 +74,7 @@ class Login extends React.Component{
         <span class="card-title activator white-text"></span>
       </div>
       <div class="card-content">
-                <p>Im still not at the level I would like to be, but I'm growing 
-          my developer skills each day thanks to Hackers Guild!!!</p>
+                <p>name of the product and other stuff here ......!!!!!</p>
 					<h3>only <span id="blue">K99.99</span></h3>
 					<button class="btn waves-effect waves-light light-blue lighten-1 right" 
 				type="submit" name="action">add to Chat</button>
@@ -93,15 +90,14 @@ class Login extends React.Component{
   <div class="col m4">
     <div class="card">
       <div class="card-image">
-        <img src="images/card.jpg"/>
-        <span class="card-title activator white-text">Jackie Chapoloko</span>
+        <img src="images/20180818_101043.jpg"/>
+   
       </div>
       <div class="card-content">
-        <p>Im still not at the level I would like to be, but I'm growing 
-          my developer skills each day thanks to Hackers Guild!!!</p>
-        <a href="#" class='center' ><img src="images/twitter.png"  alt="twitter icon"/></a>
-	<a href="#" class='center'><img src="images/github.png"  alt="github icon"/></a>
-	<a href="#" class='center'><img src="images/email.png"  alt="email icon"/></a>
+        <p>name of the product and other stuff here ......!!!!!</p>
+        	<h3>only <span id="blue">K99.99</span></h3>
+          <button class="btn waves-effect waves-light light-blue lighten-1 right" 
+				type="submit" name="action">add to Chat</button>
       </div>
     </div>
   </div>
@@ -109,14 +105,14 @@ class Login extends React.Component{
     <div class="card">
       <div class="card-image">
         <img src="images/card.jpg"/>
-        <span class="card-title activator white-text">Alvin Mwewa</span>
+        
       </div>
       <div class="card-content">
-                <p>Im still not at the level I would like to be, but I'm growing 
-          my developer skills each day thanks to Hackers Guild!!!</p>
-        <a href="#" class='center' ><img src="images/twitter.png"  alt="twitter icon"/></a>
-	<a href="#" class='center'><img src="images/github.png"  alt="github icon"/></a>
-	<a href="#" class='center'><img src="images/email.png"  alt="email icon"/></a>
+                <p>name of the product and other stuff here ......!!!!!</p>
+                <h3>only <span id="blue">K99.99</span></h3>
+          <button class="btn waves-effect waves-light light-blue lighten-1 right" 
+				type="submit" name="action">add to Chat</button>
+        
       </div>
     </div>
   </div>
@@ -124,19 +120,116 @@ class Login extends React.Component{
     <div class="card">
       <div class="card-image">
         <img src="images/card.jpg"/>
-        <span class="card-title activator white-text">Grace Banda</span>
+        
       </div>
       <div class="card-content">
-                <p>Im still not at the level I would like to be, but I'm growing 
-          my developer skills each day thanks to Hackers Guild!!!</p>
-        <a href="#" class='center' ><img src="images/twitter.png"  alt="twitter icon"/></a>
-	<a href="#" class='center'><img src="images/github.png"  alt="github icon"/></a>
-	<a href="#" class='center'><img src="images/email.png"  alt="email icon"/></a>
+                <p>name of the product and other stuff here ......!!!!!</p>
+                <h3>only <span id="blue">K99.99</span></h3>
+          <button class="btn waves-effect waves-light light-blue lighten-1 right" 
+				type="submit" name="action">add to Chat</button>
       </div>
     </div>
   </div>
 </div>
 
+{/* supplies line three */}
+
+			<div class="row">
+  <div class="col m4">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/card.jpg"/>
+   
+      </div>
+      <div class="card-content">
+        <p>name of the product and other stuff here ......!!!!!</p>
+        	<h3>only <span id="blue">K99.99</span></h3>
+          <button class="btn waves-effect waves-light light-blue lighten-1 right" 
+				type="submit" name="action">add to Chat</button>
+      </div>
+    </div>
+  </div>
+   <div class="col m4">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/card.jpg"/>
+        
+      </div>
+      <div class="card-content">
+                <p>name of the product and other stuff here ......!!!!!</p>
+                <h3>only <span id="blue">K99.99</span></h3>
+          <button class="btn waves-effect waves-light light-blue lighten-1 right" 
+				type="submit" name="action">add to Chat</button>
+        
+      </div>
+    </div>
+  </div>
+  <div class="col m4">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/card.jpg"/>
+        
+      </div>
+      <div class="card-content">
+                <p>name of the product and other stuff here ......!!!!!</p>
+                <h3>only <span id="blue">K99.99</span></h3>
+          <button class="btn waves-effect waves-light light-blue lighten-1 right" 
+				type="submit" name="action">add to Chat</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+{/* supplies line four */}
+
+			<div class="row">
+  <div class="col m4">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/card.jpg"/>
+   
+      </div>
+      <div class="card-content">
+        <p>name of the product and other stuff here ......!!!!!</p>
+        	<h3>only <span id="blue">K99.99</span></h3>
+          <button class="btn waves-effect waves-light light-blue lighten-1 right" 
+				type="submit" name="action">add to Chat</button>
+      </div>
+    </div>
+  </div>
+   <div class="col m4">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/card.jpg"/>
+        
+      </div>
+      <div class="card-content">
+                <p>name of the product and other stuff here ......!!!!!</p>
+                <h3>only <span id="blue">K99.99</span></h3>
+          <button class="btn waves-effect waves-light light-blue lighten-1 right" 
+				type="submit" name="action">add to Chat</button>
+        
+      </div>
+    </div>
+  </div>
+  <div class="col m4">
+    <div class="card">
+      <div class="card-image">
+        <img src="images/card.jpg"/>
+        
+      </div>
+      <div class="card-content">
+                <p>name of the product and other stuff here ......!!!!!</p>
+                <h3>only <span id="blue">K99.99</span></h3>
+          <button class="btn waves-effect waves-light light-blue lighten-1 right" 
+				type="submit" name="action">add to Chat</button>
+      </div>
+    </div>
+  </div>
+</div>
+<p classsName="center"> <span id="blue">we are found at road number bla bla balyou can call us on 78340560823754504549
+ for more informtion call our customer service line on 83276048762 or
+  73643098476783 or text use on whats aapp on 7362394738426304896</span></p>
 				 <Footer/>
 			</div>
 		);

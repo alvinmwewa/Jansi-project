@@ -49,7 +49,7 @@ componentDidMount(){
 			  <li><a href='/about' class="waves-effect">About</a></li>
 				<li><a href="/signup">Subscribe</a></li>
 			    <li><div class="divider"></div></li>
-			    <li><a href='/profile' class="waves-effect waves-light">Profile</a></li>
+			    {/* <li><a href='/profile' class="waves-effect waves-light">Profile</a></li> */}
 					<li><a href="/login">Supplies</a></li>
 					<li><a href='/contact' class="waves-effect">Make an Order</a></li>
 			  </ul>
